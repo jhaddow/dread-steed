@@ -26,7 +26,7 @@ pass this config object into dread steed
 
 ## Error Handling
 
-Optional if you want to handle errors and or log then in your own way
+Optional if you want to handle errors and or log them in your own way
 
 ```javascript
     var errorCallback = function(err){
